@@ -33,3 +33,4 @@ dist/
 nbdist/
 .nb-gradle/
 /patterns/creational-pattern/prototype/target/
+/patterns/creational-pattern/prototype_two/target/
