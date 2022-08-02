@@ -66,7 +66,7 @@
 
   [Naïve Singleton](https://refactoring.guru/design-patterns/singleton/java/example#example-0)
 
-  [Code example](https://refactoring.guru/design-patterns/singleton/java/example#example-0)
+  [Thread-safe Singleton](https://refactoring.guru/design-patterns/singleton/java/example#example-2)
 
 - Structural Patterns: These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
