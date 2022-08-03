@@ -34,3 +34,4 @@ nbdist/
 .nb-gradle/
 /patterns/creational-pattern/prototype/target/
 /patterns/creational-pattern/prototype_two/target/
+/patterns/creational-pattern/singleton_native_single_threaded/target/
